@@ -1,0 +1,27 @@
+.main {
+  height: 100vh;
+  display: inline-flex;
+  align-items: center;
+}
+.startButton {
+  border: 100px;
+  outline: none;
+  padding: 15px;
+  font-size: 32px;
+  cursor: pointer;
+  border-radius: 15px;
+  background-color: white;
+  box-shadow: 0px 0px 3px gray;
+  display: inline-flex;
+}
+.charButton {
+  border: 100px;
+  outline: none;
+  padding: 15px;
+  font-size: 32px;
+  cursor: pointer;
+  border-radius: 15px;
+  background-color: white;
+  box-shadow: 0px 0px 3px gray;
+  display: inline-flex;
+}
